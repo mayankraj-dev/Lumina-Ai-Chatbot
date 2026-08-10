@@ -1,2 +1,3 @@
-# Lumina-Ai-Chatbot
-A powerful Telegram AI companion with memory, study tools, multimodal AI, image generation, XP &amp; achievements.
+<p align="center">
+  <img src="assets/lumina-banner.png" alt="Lumina AI Banner">
+</p>
