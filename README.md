@@ -670,11 +670,11 @@ Keep contributions focused, readable and respectful.
 
 ### 👑 Owner / Maintainer
 
-**t.me/roshni_in + t.me/mayankraj_dev**
+** t.me/roshni_in + t.me/mayankraj_dev **
 
 ### 💻 Repository / Development
 
-**t.me/mayankraj_dev**
+** t.me/mayankraj_dev **
 
 <br>
 
